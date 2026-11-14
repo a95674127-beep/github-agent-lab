@@ -1,0 +1,8 @@
+[package]
+name = "agent-lab"
+version = "0.1.0"
+edition = "2021"
+description = "Tiny practice crate for the GitHub-agent sandbox — contains one deliberate bug as a fixture."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
